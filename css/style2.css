@@ -1167,6 +1167,9 @@ footer .snsMenu img{
     .headTop .logo {
         width:180px;
     }
+    #fp-nav ul li .fp-tooltip.fp-right {
+    display: none;
+    }
     .mainBanner .downArrow,
     .brandWrap .downArrow,
     .snsWrap>.downArrowBlack,
